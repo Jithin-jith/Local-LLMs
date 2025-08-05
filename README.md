@@ -53,7 +53,7 @@ An LLM is generally considered open if it meets most of these criteria:
 - Cons:
     - Slightly higher memory usage
 
-⚡ 5. llama.cpp
+⚡ 3. llama.cpp
 - URL: https://github.com/ggerganov/llama.cpp
 - Best for: Developers and CLI enthusiasts
 - What it does: C++ implementation of LLaMA that runs on CPU/GPU using quantized models
