@@ -14,3 +14,12 @@ Open LLM models are Large Language Models that are made publicly available, eith
 - Educational use and research
 - Evaluating fairness, bias, safety, etc.
 - Building domain-specific assistants
+
+## 🔍 What Makes an LLM “Open”?
+An LLM is generally considered open if it meets most of these criteria:
+
+Criteria |	Description
+✅ Weights Available |	The trained model weights are freely downloadable
+✅ Open License |	License allows commercial use, fine-tuning, and redistribution
+✅ Code Access |	Training code, inference code, or config is shared
+❌ Not Hosted Online |	Doesn’t require you to use the provider’s API (unlike GPT-4, Claude, etc.)
