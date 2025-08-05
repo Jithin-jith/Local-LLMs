@@ -24,3 +24,37 @@ An LLM is generally considered open if it meets most of these criteria:
 |✅ Open License |	License allows commercial use, fine-tuning, and redistribution |
 |✅ Code Access |	Training code, inference code, or config is shared|
 |❌ Not Hosted Online |	Doesn’t require you to use the provider’s API (unlike GPT-4, Claude, etc.) |
+
+## ✅ Top Options for Running LLMs Locally
+🧠 1. Ollama
+- URL: https://ollama.com
+- Best for: Easiest local LLM setup with a CLI
+- How it works: Pulls and runs models like llama3, mistral, gemma, phi3, etc.
+- Pros:
+    - One-line install
+    - Offers advanced configuration options
+    - Simple ollama run llama3 interface
+    - GPU & CPU support
+    - Mac, Linux, Windows (WSL)
+- Cons:
+    - Limited GUI; mainly CLI-based
+
+💻 2. LM Studio
+- URL: https://lmstudio.ai
+- Best for: GUI-based chat with local models
+- Pros:
+    - Chat interface like ChatGPT
+    - Drag-and-drop model loading from Hugging Face
+    - Works on CPU & GPU
+    - Prompt templates, multi-turn chat
+    - Beautiful interface
+    - Easy to run and switch models
+    - Great for non-technical users
+- Cons:
+    - Slightly higher memory usage
+
+⚡ 5. llama.cpp
+- URL: https://github.com/ggerganov/llama.cpp
+- Best for: Developers and CLI enthusiasts
+- What it does: C++ implementation of LLaMA that runs on CPU/GPU using quantized models
+- Use with: llama.cpp, text-generation-webui, koboldcpp, or ollama
