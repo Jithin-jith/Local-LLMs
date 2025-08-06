@@ -11,6 +11,6 @@ Instead of worrying about downloading weights, converting formats, setting up to
 # ✅ What Can You Do with Ollama?
 
 - 🏃‍♂️ **Run models** like **LLaMA 2**, **Mistral**, **Gemma**, **Phi**, **Codellama**, **OpenHermes**, **Neural Chat**, and more **locally**.
-- 🧩 **Customize models** using `Modelfiles`.
+- 🧩 **Customize models** using `Modelfiles`. - https://github.com/ollama/ollama/blob/main/docs/modelfile.md
 - 💬 **Chat** with models from your **terminal** or **build apps** using the **Ollama API**.
 - 🛠️ **Fine-tune** or **personalize** models.
