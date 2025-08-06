@@ -15,6 +15,13 @@ Instead of worrying about downloading weights, converting formats, setting up to
 - 💬 **Chat** with models from your **terminal** or **build apps** using the **Ollama API** - https://github.com/ollama/ollama/blob/main/docs/api.md.
 - 🛠️ **Fine-tune** or **personalize** models.
 
+# 🚀 Key Features of Ollama
+
+ - Run LLMs locally with zero complex setup
+ - Pull prebuilt LLMs with optimized weights
+ - Chat with models via terminal or REST API
+ - Create custom models using Modelfile
+ - Compatible with LangChain, LlamaIndex, and other frameworks
 
 # 🛠️ Ollama CLI: Essential Commands
 
